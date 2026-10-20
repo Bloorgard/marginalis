@@ -46,4 +46,4 @@ Copyright 2026 Dmitrii Osadchuk, with Reserved Font Name "Marginalis".
 - Дизайн: Пётр Пустота — [pustota.name](https://pustota.name)
 - Правообладатель: Дмитрий Осадчук — [marginalis.art](https://marginalis.art)
 
-Версия 1.001
+Версия 1.002

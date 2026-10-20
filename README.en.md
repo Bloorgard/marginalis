@@ -46,4 +46,4 @@ Licensed under the [SIL Open Font License 1.1](OFL.txt): free to use, including 
 - Design: Peter Pustota — [pustota.name](https://pustota.name)
 - Copyright holder: Dmitrii Osadchuk — [marginalis.art](https://marginalis.art)
 
-Version 1.001
+Version 1.002
